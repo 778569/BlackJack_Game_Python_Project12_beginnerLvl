@@ -15,3 +15,8 @@ Now that we have a basic understanding of the rules of the game, let’s start b
 * Deal the dealer’s cards
 * Determine the winner
 
+# Run the game:
+bash<br>
+Copy code<br>
+python main.py<br>
+Enjoy the game, and aim to beat the dealer while reaching as close to 21 points as possible without exceeding it. Good luck!<br>
